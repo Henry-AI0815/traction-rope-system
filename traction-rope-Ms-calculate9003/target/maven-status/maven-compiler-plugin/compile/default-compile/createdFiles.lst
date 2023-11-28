@@ -1,0 +1,9 @@
+springcloud\mapper\MetricMapper.class
+springcloud\MsCalculate9003.class
+springcloud\config\WebAppConfig.class
+springcloud\MsCalculate9003$GoodsRibbonConfig.class
+springcloud\controller\GetParaController.class
+springcloud\entity\Usage.class
+springcloud\interceptor\LogInterceptor.class
+springcloud\config\ApplicationContextConfig.class
+springcloud\entity\MetricEntity.class
