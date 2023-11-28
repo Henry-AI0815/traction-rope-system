@@ -1,0 +1,9 @@
+springcloud\TRWeb8080.class
+springcloud\mapper\MetricMapper.class
+springcloud\config\WebAppConfig.class
+springcloud\entity\Usage.class
+springcloud\TRWeb8080$TestConfiguration.class
+springcloud\controller\WebController.class
+springcloud\interceptor\LogInterceptor.class
+springcloud\config\ApplicationContextConfig.class
+springcloud\entity\MetricEntity.class
