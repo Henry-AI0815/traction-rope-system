@@ -1,0 +1,9 @@
+springcloud\mapper\MetricMapper.class
+springcloud\config\WebAppConfig.class
+springcloud\controller\GetParaController.class
+springcloud\entity\Usage.class
+springcloud\interceptor\LogInterceptor.class
+springcloud\config\ApplicationContextConfig.class
+springcloud\entity\MetricEntity.class
+springcloud\TRMsrcwtCal9019$GoodsRibbonConfig.class
+springcloud\TRMsrcwtCal9019.class
